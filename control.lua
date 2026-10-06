@@ -1,4 +1,5 @@
 local events = require("__cybersyn2__.lib.core.event")
+local strace = require("__cybersyn2__.lib.core.strace")
 local tlib = require("__cybersyn2__.lib.core.table")
 local pos_lib = require("__cybersyn2__.lib.core.math.pos")
 
