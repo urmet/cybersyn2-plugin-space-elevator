@@ -1,0 +1,16 @@
+{
+  "name": "cybersyn2-plugin-space-elevator",
+  "version": "0.1.0",
+  "title": "Cybersyn 2 - Space Elevator Plugin",
+  "author": "urmet",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1.0", "cybersyn2 >= 0.3.2", "space-exploration >= 0.7.59"],
+  "description": "Adds train routing support for Space Exploration's space elevators to Cybersyn 2.",
+  "package": {
+    "git_publish_branch": "main",
+    "ignore": [ ],
+    "scripts": {
+    },
+    "sync_portal_details": true
+  }
+}
